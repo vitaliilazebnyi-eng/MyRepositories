@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 280" width="200" height="280">
+  <rect width="200" height="280" rx="8" fill="#1f3a5f"/>
+  <rect x="12" y="12" width="176" height="256" rx="4" fill="none" stroke="#f2e6c9" stroke-width="2"/>
+  <text x="100" y="130" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#f2e6c9">Кобзар</text>
+  <text x="100" y="240" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#f2e6c9">Тарас Шевченко</text>
+</svg>
